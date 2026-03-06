@@ -166,7 +166,7 @@ Dependencies such as **Spring Web, Spring Security, Spring Data JPA, and H2 data
 ### 1 Clone the repository
 
 ```
-git clone <repository-url>
+git clone https://github.com/kishor-gn14/broken-access-control.git
 ```
 
 ### 2 Build the project
